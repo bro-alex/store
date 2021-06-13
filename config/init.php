@@ -4,9 +4,9 @@ define("DEBUG", 1);
 define("ROOT", dirname(__DIR__));
 define("WWW", ROOT . '/public');
 define("APP", ROOT . '/app');
-define("CORE", ROOT . '/vender/store/core');
-define("LIBS", ROOT . '/vender/store/core/libs');
-define("CACHE", ROOT . '/vender/store/core/cache');
+define("CORE", ROOT . '/vendor/store/core');
+define("LIBS", ROOT . '/vendor/store/core/libs');
+define("CACHE", ROOT . '/tmp/cache');
 define("CONF", ROOT . '/config');
 define("LAYOUT", 'default');
 

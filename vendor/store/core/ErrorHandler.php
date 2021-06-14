@@ -20,7 +20,7 @@ class ErrorHandler{
     protected function logErrors($message = '', $file = '', $line = ''){
         error_log("[" . date('Y-m-d H:i:s') . "] Текст ошибки: {$message} | Файл: {$file} | Строка: {$line}\n---------------------\n", 3, ROOT . '/tmp/errors.log');
     }
-    protected function displayError($errno, $errstr, $errline, $responce = 404){
+    protected function displayError($errno, $errstr, $errfile, $errline, $responce = 404){
         http_response_code($responce);
         if($responce == 404 && !DEBUG){
             require WWW . '/errors/404.php';

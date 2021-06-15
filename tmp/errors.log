@@ -68,3 +68,7 @@
 ---------------------
 [2021-06-15 15:31:42] Текст ошибки: Controller app\controllers\PageController not found. | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 33
 ---------------------
+[2021-06-15 20:51:17] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | Файл: /var/www/store.loc/app/controllers/MainController.php | Строка: 11
+---------------------
+[2021-06-15 20:51:19] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | Файл: /var/www/store.loc/app/controllers/MainController.php | Строка: 11
+---------------------

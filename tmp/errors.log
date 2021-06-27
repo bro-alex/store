@@ -74,3 +74,11 @@
 ---------------------
 [2021-06-17 00:34:16] Текст ошибки: Page not found. | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 36
 ---------------------
+[2021-06-26 20:27:13] Текст ошибки: Page not found. | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 37
+---------------------
+[2021-06-27 11:03:30] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 31
+---------------------
+[2021-06-27 11:06:43] Текст ошибки: Not find /var/www/store.loc/app/views/Page/view.php | Файл: /var/www/store.loc/vendor/store/core/base/View.php | Строка: 36
+---------------------
+[2021-06-27 11:06:45] Текст ошибки: Not find /var/www/store.loc/app/views/Page/view.php | Файл: /var/www/store.loc/vendor/store/core/base/View.php | Строка: 36
+---------------------

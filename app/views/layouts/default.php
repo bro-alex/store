@@ -9,5 +9,12 @@
 <body>
     <h1>Template Default</h1>
     <?=$content;?>
+    <?php
+    $logs = \R::getDatabaseAdapter()
+    ->getDatabase()
+    ->getLogger();
+
+    debug($logs->grep('SELECT'));
+    ?>
 </body>
 </html>

@@ -2,3 +2,19 @@
 ---------------------
 [2021-06-29 19:10:33] Текст ошибки: Page not found. | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 39
 ---------------------
+[2021-06-30 10:40:55] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'f0554939_storetest.test' doesn't exist | Файл: /var/www/store.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 202
+---------------------
+[2021-06-30 10:45:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'f0554939_storetest.test' doesn't exist | Файл: /var/www/store.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 202
+---------------------
+[2021-06-30 10:45:23] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'f0554939_storetest.test' doesn't exist | Файл: /var/www/store.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 202
+---------------------
+[2021-06-30 10:45:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'f0554939_storetest.test' doesn't exist | Файл: /var/www/store.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 202
+---------------------
+[2021-06-30 10:45:25] Текст ошибки: Page not found. | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 39
+---------------------
+[2021-06-30 10:45:53] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'f0554939_storetest.f0554939_storetest' doesn't exist | Файл: /var/www/store.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 202
+---------------------
+[2021-06-30 10:45:55] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'f0554939_storetest.f0554939_storetest' doesn't exist | Файл: /var/www/store.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 202
+---------------------
+[2021-06-30 10:45:55] Текст ошибки: Page not found. | Файл: /var/www/store.loc/vendor/store/core/Router.php | Строка: 39
+---------------------
